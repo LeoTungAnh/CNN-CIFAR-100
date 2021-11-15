@@ -15,3 +15,6 @@ https://paperswithcode.com/sota/image-classification-on-cifar-100?tag_filter=3
 
 Training process of model is approximately 3 hours on Google colab with 1 GPU.
 
+# References
+
+My project is implemented as a small project when studying in University of Sydney with email: tung6100@uni.sydney.edu.au

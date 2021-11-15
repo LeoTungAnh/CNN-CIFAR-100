@@ -1,4 +1,4 @@
-# A simple CNN model in Keras without transfer learning achieve 67% accuracy on CIFAR-100
+# A simple CNN model in Keras without transfer learning achieves 67% accuracy on test set of CIFAR-100
 
 In this project, I develope some CNN models with various experiment showing benefits of following techniques:
 - Increasing number of filters in  convolution layers.
